@@ -6,5 +6,10 @@
             "name": "Doit Online Media",
             "email": "tim@doitonlinemedia.nl"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-0": {
+            "": "src/"
+        }
+    }
 }
