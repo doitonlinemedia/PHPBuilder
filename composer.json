@@ -1,0 +1,10 @@
+{
+    "name": "doitonlinemedia/phpbuilder",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Doit Online Media",
+            "email": "tim@doitonlinemedia.nl"
+        }
+    ],
+}
